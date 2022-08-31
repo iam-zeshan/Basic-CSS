@@ -1,0 +1,13 @@
+I understand that, what are the styling priorities, I mean we can't give more than one style to a single element at the same time. 
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+</style>
+<h1 class="pink-text">Hello World!</h1>
