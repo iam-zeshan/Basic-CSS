@@ -1,0 +1,10 @@
+Understanding about the 'inheritance' in CSS
+
+<style>
+  body {
+    background-color: black;
+  }
+</style>
+<body>
+
+</body>
