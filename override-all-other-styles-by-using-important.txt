@@ -1,0 +1,20 @@
+I've learned about the priority of CSS styling, by adding "!important" keyword to our class so in this way if there were more then one class or styles 
+were given to the HTML element but ultimately class will win which includes '!important'.
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  #orange-text {
+    color: orange;
+  }
+  .pink-text {
+    color: pink !important;
+  }
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h1 id="orange-text" class="pink-text blue-text" style="color: white">Hello World!</h1>
