@@ -1,0 +1,17 @@
+Ok, in this section, I've learned that, how we can use the 'overriding' concept to prioratized the styling to an HTML element
+
+<style>
+  body {
+    background-color: black;
+    font-family: monospace;
+    color: green;
+  }
+  .pink-text {
+    color: pink;
+  }
+
+  .blue-text {
+    color: blue;
+  }
+</style>
+<h1 class="blue-text pink-text">Hello World!</h1>
