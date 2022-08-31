@@ -1,0 +1,13 @@
+understanding about the styling in an inheritance way, I mean by usning the inheritance concept, we can style any HTML elment very easily.
+
+<style>
+  body {
+    background-color: black;
+    color: green;
+    font-family: monospace;
+  }
+
+</style>
+<body>
+  <h1>Hello World</h1>
+</body>
