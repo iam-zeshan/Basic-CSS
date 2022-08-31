@@ -1,0 +1,7 @@
+All about Hexadecimal digits. and how we can use it for coloring HTML elements. 
+
+<style>
+  body {
+    background-color: #000000;
+  }
+</style>
